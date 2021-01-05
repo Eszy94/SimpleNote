@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleNote</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="activity_title_home">Notatki</string>
+    <string name="msg_no_notes">Brak notatek</string>
+    <string name="lbl_new_note_title">Dodaj notatke</string>
+    <string name="lbl_edit_note_title">Edytuj notatke</string>
+    <string name="hint_enter_note">Wprowadz swoja notatke</string>
+</resources>
